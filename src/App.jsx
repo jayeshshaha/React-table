@@ -141,23 +141,3 @@ const App = () => {
 
 export default App
 
-
-
-
- {/* <tr>
-            <th>Id</th>
-            <th>Gender</th>
-            <th>Salary</th>
-          </tr> */}
-
-
-
-          {/* {
-            data.map((i)=>(
-              <tr>
-                <td>{i.id}</td>
-                <td>{i.gender}</td>
-                <td>{i.salary}</td>
-              </tr>
-            ))
-          } */}
